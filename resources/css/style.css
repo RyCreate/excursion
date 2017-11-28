@@ -1,16 +1,22 @@
 body {background-color: black;
 font-family:Verdana;
-}
+text-align: center;}
 
 h1 {color:white;
   font-weight: Normal;
   font-size: 50px;
-  text-align: center;
+  text-align: center;}
 
-}
+.remembers {font-size: 21px;
+color:gray;}
 
-h2 {color:aquamarine;
+.download {color:aquamarine;
 font-size: 16px;
-text-align: center;
+text-decoration: underline;}
 
-}
+h3 {font-weight: 300;
+font-size: 42px;
+color:white;}
+
+.footer {text-align: right;
+color:gray;}
